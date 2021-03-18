@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "Test",
-    "description": "A Test Model."
+    "description": "A Test Model.",
+    "owner": "Test"
   },
   "detail": {
     "contributors": [],
@@ -11,6 +12,7 @@
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
-    ]
+    ],
+    "reviewer": "Test"
   }
 }
